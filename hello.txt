@@ -1,1 +1,1 @@
-My first Git and GitHub practical project.
+I am learning Git, GitHub and Jenkins CI/CD.
